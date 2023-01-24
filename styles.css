@@ -192,7 +192,7 @@ hr {
 
     .Body-TxtBox {
         height: auto;
-        width: 450px;
+        width: 400px;
         text-align: left;
         margin: 0 0 0 0;
     }
@@ -203,7 +203,7 @@ hr {
 
     .SaveDateImg {
         height: auto;
-        width: 55%;
+        width: 60%;
         position: relative;
         margin: 5% 0 3% 0;
     }
